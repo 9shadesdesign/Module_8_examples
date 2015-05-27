@@ -1,0 +1,24 @@
+{
+  "name": "Module_8_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JSCRIPT300-Spring2015/Module_8_examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSCRIPT300-Spring2015/Module_8_examples/issues"
+  },
+  "homepage": "https://github.com/JSCRIPT300-Spring2015/Module_8_examples",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4",
+    "mongoose": "^4.0.3"
+  }
+}
